@@ -1,3 +1,8 @@
+
+![3_objects](https://github.com/user-attachments/assets/6dceb67e-4dc5-4dae-95b9-5858a618d8b6)
+
+
+
 <a href="https://freecad.org"><img src="/src/Gui/Icons/freecad.svg" height="100px" width="100px"></a>
 
 ### Your own 3D parametric modeler
