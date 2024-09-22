@@ -30,7 +30,10 @@
     </g>
   </g>
 </svg>
-![freecad_banner](https://github.com/user-attachments/assets/ae856727-9d85-4b9b-985d-78a30a9bdcea)
+![freecad_banner](https://github.com/user-attachments/assets/31565de9-9c78-41e8-9114-151cee9c6280)
+
+
+
 
 <a href="https://freecad.org"><img src="/src/Gui/Icons/freecad.svg" height="100px" width="100px"></a>
 
